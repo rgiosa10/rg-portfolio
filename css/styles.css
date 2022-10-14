@@ -5,10 +5,11 @@
 
 .top-section {
   width: 100%;
-  max-height: 50%;
+  height: 50%;
   display: flex;
   box-sizing: border-box;
   justify-content: center;
+  margin-bottom: 10px;
 }
 
 .profile-pic {
@@ -16,7 +17,7 @@
   height: 75%;
 }
 
-.contact {
+.pic-contact {
   float: left;
   width: 30%;
   height: 50%;
@@ -27,15 +28,16 @@
   box-sizing: border-box;
 }
 
+.contact {
+  padding: 15px;
+}
+
 .list {
   font-size: small;
-  float: left;
   width: 70%;
-  height: 30%;
+  height: 50%;
   padding: 15px;
-  margin: auto;
-  margin-left: 5px;
-  margin-bottom: 5px;
+  margin-left: 10px;
   border: black solid 2px;
   box-sizing: border-box;
 }
@@ -46,10 +48,10 @@
 
 .about-me {
   margin: auto;
+  margin-bottom: 10px;
   padding: 10px;
   border: black solid 2px;
   box-sizing: border-box;
-  border-bottom: 1px;
 }
 
 .hobbies {
@@ -57,8 +59,17 @@
   padding: 10px;
   border: black solid 2px;
   box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+.box-colors {
+  background-color: lightgray;
 }
 
 .span {
   font-weight: bold
+}
+
+.span-color {
+  color: crimson;
 }
