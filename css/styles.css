@@ -67,7 +67,7 @@ h5 {
 .about-me {
   margin: auto;
   margin-bottom: 10px;
-  padding: 10px;
+  padding: 25px;
   border: black solid 2px;
   box-sizing: border-box;
 }
@@ -78,10 +78,10 @@ h5 {
 
 .hobbies {
   margin: auto;
-  padding: 10px;
+  padding: 25px;
   border: black solid 2px;
   box-sizing: border-box;
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
 
 .box-colors {
@@ -95,3 +95,22 @@ h5 {
 .span-color {
   color: blue;
 }
+
+.tp {
+  float: left;
+  width: 25%;
+  margin-right: 25px;
+}
+
+.amzn {
+  float: left;
+  width: 25%;
+  margin-right: 25px;
+}
+
+.vizio {
+  float: left;
+  width: 25%;
+  margin-right: 25px;
+}
+
