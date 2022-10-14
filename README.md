@@ -2,7 +2,7 @@
 
 #### By Ruben Giosa
 
-#### This is a portfolio webpage that uses HTML and CSS, that is the landing page for my programming portfolio.
+#### This is a portfolio webpage that uses HTML and CSS, that is the landing page for my programming portfolio. Included on this webpage is 1) a list of projects that I have created 2) an About Me section 3) an Interests, Hobbies and Skills section.
 
 ## Technologies Used
 

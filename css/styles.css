@@ -40,3 +40,7 @@
   border: black solid 2px;
   box-sizing: border-box;
 }
+
+.span {
+  font-weight: bold
+}
