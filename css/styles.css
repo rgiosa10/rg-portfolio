@@ -96,21 +96,13 @@ h5 {
   color: blue;
 }
 
-.tp {
-  float: left;
-  width: 25%;
+.logo1 {
+  width: 21%;
   margin-right: 25px;
 }
 
-.amzn {
-  float: left;
-  width: 25%;
+.logo-next {
+  float:inline-end;
+  width: 21%;
   margin-right: 25px;
 }
-
-.vizio {
-  float: left;
-  width: 25%;
-  margin-right: 25px;
-}
-
