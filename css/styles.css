@@ -12,20 +12,31 @@
 }
 
 .profile-pic {
+  width: 100%;
+  height: 75%;
+}
+
+.contact {
   float: left;
-  max-width: 30%;
-  height: auto;
+  width: 30%;
+  height: 50%;
+  float: inline-end;
+  box-sizing: border-box;
+  justify-content: center;
+  border: black solid 2px;
+  box-sizing: border-box;
 }
 
 .list {
   font-size: small;
   float: left;
   width: 70%;
+  height: 30%;
   padding: 15px;
   margin: auto;
-  margin-left: 10px;
+  margin-left: 5px;
+  margin-bottom: 5px;
   border: black solid 2px;
-  border-bottom: 1px;
   box-sizing: border-box;
 }
 
