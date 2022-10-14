@@ -36,7 +36,7 @@ h1 {
 }
 
 .contact {
-  padding: 15px;
+  padding: 25px;
 }
 
 .list {
@@ -73,7 +73,7 @@ h5 {
   padding: 10px;
   border: black solid 2px;
   box-sizing: border-box;
-  margin-bottom: 10px;
+  margin-bottom: 50px;
 }
 
 .box-colors {
