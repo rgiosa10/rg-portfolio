@@ -1,5 +1,3 @@
-README for first Project 
-
 # _Ruben Giosa Programming Portfolio_
 
 #### By Ruben Giosa

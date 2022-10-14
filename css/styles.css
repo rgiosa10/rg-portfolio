@@ -1,3 +1,38 @@
 .index {
-  background-color: rgb(0, 183, 255);
+  display: flex;
+  justify-content: center;
+}
+
+.top-section {
+  display: flex;
+  justify-content: center;
+}
+
+.profile-pic {
+  float: left;
+  width: auto;
+  height: auto;
+}
+
+.list {
+  float: right;
+  width: 70%;
+  margin: auto;
+  margin-left: 10px;
+  border: black solid 2px;
+  box-sizing: border-box;
+}
+
+.about-me {
+  margin: auto;
+  padding: 10px;
+  border: black solid 2px;
+  box-sizing: border-box;
+}
+
+.hobbies {
+  margin: auto;
+  padding: 10px;
+  border: black solid 2px;
+  box-sizing: border-box;
 }
