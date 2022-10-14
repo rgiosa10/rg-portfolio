@@ -42,7 +42,7 @@
   box-sizing: border-box;
 }
 
-.list li {
+h4 {
   color: green;
 }
 
@@ -52,6 +52,10 @@
   padding: 10px;
   border: black solid 2px;
   box-sizing: border-box;
+}
+
+.about-me h5 {
+  color: blue;
 }
 
 .hobbies {

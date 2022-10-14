@@ -2,7 +2,7 @@
 
 #### By Ruben Giosa
 
-#### This is a portfolio webpage that uses HTML and CSS, that is the landing page for my programming portfolio. Included on this webpage is 1) a list of projects that I have created 2) an About Me section 3) an Interests, Hobbies and Skills section.
+#### This is a portfolio webpage that uses HTML and CSS, that is the landing page for my programming portfolio. Included on this webpage is 1) a picture of me 2) my contact information 3) a list of three projects that I have created 4) an About Me section and 5) an Interests, Hobbies and Skills section. 
 
 ## Technologies Used
 
@@ -13,7 +13,7 @@
 
 ## Description
 
-_{Placeholder.}_
+This is a webpage of my programming portfolio. On the top portion of the webpage is a picture of myself with my contact information. On the top right of the page is a list of projects (with links to the github repositories) that I developed and co-developed with other Epicodus students. The next section in the middle of the webpage is titled "About Me" and has my 1) working experience 2) education and 3) a summary on why I am pursuing programming. The final sections of the webpage has details about my interests, hobbies and skills (as well as some I am developing).
 
 ## Setup/Installation Requirements
 
