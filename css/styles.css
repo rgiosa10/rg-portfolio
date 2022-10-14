@@ -23,6 +23,10 @@
   box-sizing: border-box;
 }
 
+.list li {
+  color: green;
+}
+
 .about-me {
   margin: auto;
   padding: 10px;
