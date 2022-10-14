@@ -1,7 +1,14 @@
-/* .index {
-  display: flex;
-  justify-content: center;
-} */
+
+h1 {
+  background: #B8E1FC;
+  background: radial-gradient(circle farthest-corner at center center, #B8E1FC 0%, #231421 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.background {
+  background-color: rgb(38, 48, 50);
+}
 
 .top-section {
   width: 100%;
@@ -42,8 +49,11 @@
   box-sizing: border-box;
 }
 
-h4 {
-  color: green;
+h5 {
+  background: #B8E1FC;
+  background: radial-gradient(circle farthest-corner at center center, #B8E1FC 0%, #231421 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .about-me {
@@ -55,7 +65,7 @@ h4 {
 }
 
 .about-me h5 {
-  color: blue;
+  color: rgb(38, 48, 50);
 }
 
 .hobbies {
@@ -75,5 +85,5 @@ h4 {
 }
 
 .span-color {
-  color: crimson;
+  color: blue;
 }
