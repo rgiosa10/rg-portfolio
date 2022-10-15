@@ -23,7 +23,7 @@ This is a webpage of my programming portfolio. On the top portion of the webpage
 * Go to the new directory: $ cd rg-portfolio
 * Finally, initialize the file with: $ code .
 * Then VS Code should open for you to begin using the project.
-* Here is a link to the site on Git Hub Pages: 
+* Here is a link to the site on Git Hub Pages: https://rgiosa10.github.io/rg-portfolio/
 
 ## Known Bugs
 
