@@ -8,6 +8,7 @@
 
 * HTML
 * CSS
+* Bootstrap
 * Git
 * Markdown
 
