@@ -22,8 +22,7 @@ This is a webpage of my programming portfolio. On the top portion of the webpage
 * Then open your terminal. I recommend going to your Desktop directory (command: $ cd Desktop).
 * Then clone the project by inputting: $ git clone https://github.com/rgiosa10/rg-portfolio.git
 * Go to the new directory: $ cd rg-portfolio
-* Finally, initialize the file with: $ code .
-* Then VS Code should open for you to begin using the project.
+* Finally, locate the index.html file and open it by double-clicking it, that will open the site on your browser.
 * Here is a link to the site on Git Hub Pages: https://rgiosa10.github.io/rg-portfolio
 
 ## Known Bugs
